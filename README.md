@@ -82,7 +82,7 @@ SIMPLE-BOT ගොඩනැගීමට ඔබට ජංගම දුරකථන
 පළමු උපාංගයෙන් ඔබට SIMPLE බොට් ස්ථාපනය කිරීමට අවශ්‍යයි..`
 
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා SIMPLE බොට් deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/kaviyane1/SL-ASIATA.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://http://github.com/Thisan04/SL-ASIATA)
 
 
 
